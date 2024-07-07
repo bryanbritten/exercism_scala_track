@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E172] Type Error: /home/bryan/Projects/exercism/scala/two-fer/src/main/scala/Twofer.scala:5:11 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m      [33mcase[0m None => [31m"One for you, one for me."[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m           ^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m   Values of types object None and String cannot be compared with == or !=[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
