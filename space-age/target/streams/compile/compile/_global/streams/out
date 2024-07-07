@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/bryan/Projects/exercism/scala/space-age/src/main/scala/SpaceAge.scala:18:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m    [33mval[0m [36mearthDays[0m = getOribitalPeriod(planet)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m           Not found: getOribitalPeriod - did you mean getOrbitalPeriod?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
